@@ -1,6 +1,6 @@
 # Mini Social — 3W Full-Stack Assessment
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-blue?style=for-the-badge&logo=vercel)](https://frontend-g4fxx4r1u-sasi-kumar-nallana.vercel.app/)
+[![Live Demo](https://mini-social-sk.vercel.app/login)
 
 > 🚀 **Recruiters & Reviewers:** Please click the badge above or visit **[https://frontend-g4fxx4r1u-sasi-kumar-nallana.vercel.app/](https://frontend-g4fxx4r1u-sasi-kumar-nallana.vercel.app/)** to observe the live interactive demo of this assessment!
 
